@@ -1,0 +1,8 @@
+root\controller\ControllerUsuario.class
+root\controller\Controller.class
+root\model\dao\exceptions\IllegalOrphanException.class
+root\controller\ControllerListado.class
+root\model\dao\PhoneDAO.class
+root\model\dao\exceptions\NonexistentEntityException.class
+root\model\dao\exceptions\PreexistingEntityException.class
+root\model\entities\Phone.class
